@@ -1,5 +1,4 @@
 import datetime
-import numpy as np
 
 def convertDatetoMinutes(date_series):
     '''
