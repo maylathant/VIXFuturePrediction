@@ -5,3 +5,6 @@
 ## How To Run
 - Install requirements by running the command "pip install -r requirements.txt" in this project's folder
 - Run the Python script with "python run.py." You will see a graph that shows the prediction over intraday times.
+
+## Example Output
+![plot](./images/vixprediction.pdf)
