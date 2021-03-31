@@ -7,4 +7,4 @@
 - Run the Python script with "python run.py." You will see a graph that shows the prediction over intraday times.
 
 ## Example Output
-![plot](./images/vixprediction.pdf?raw=true)
+![plot](./images/vixprediction.pdf)
